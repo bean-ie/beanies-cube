@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-24 20:19:51
+	time_modified: 2026-01-24 20:28:28
+	name: Blood Ritual
+	casting_cost: 1R
+	image: image4.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Arcane</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		Add <sym-auto>RRR</sym-auto>.
+		<kw-A><nospellcheck><key>Weave with <param-name>Arcane</param-name> <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(As you cast an <param-name>Arcane</param-name> spell, you may exile this card from your hand and pay its weave cost. If you do, add this card’s effects to that spell. Cast it on a later turn.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Kevin Hou
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.6
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-24 20:28:30
+	time_modified: 2026-01-24 20:44:01
+	card_color: blue
+	name: Evermore
+	casting_cost: 1U
+	image: image20.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Whenever you cast an Arcane spell, you may pay <sym-auto>U</sym-auto>. If you do, add “Draw a card” to that spell’s effects.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Olga Kononenko
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

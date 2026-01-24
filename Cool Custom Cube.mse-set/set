@@ -1,0 +1,43 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered
+stylesheet_version: 2024-09-23
+set_info:
+	title: Cool Custom Cube
+	symbol: 
+	masterpiece_symbol: 
+	automatic_card_numbers: yes
+styling:
+	magic-m15-altered:
+		chop_top: 0
+		chop_bottom: 0
+		font_cap: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+include_file: card azula strongest firebender
+include_file: card omo vesuvan princess
+include_file: card sami wildcat captain
+include_file: card grand warlord radha
+include_file: card ardbert warrior of darkness
+include_file: card nymris oonas trickster
+include_file: card abuelo ancestral echo
+include_file: card samwise gamgee
+include_file: card black waltz no. 3
+include_file: card jarad golgari lich lord
+include_file: card blood ritual
+include_file: card evermore
+include_file: card mirrorize
+include_file: card vesuva
+include_file: card kingdom of vesuva
+include_file: card planar nexus
+keyword:
+	keyword: Weave
+	match: Weave with <atom-param>name</atom-param> <atom-param>cost</atom-param>
+	reminder: As you cast a {param1} spell, you may exile this card from your hand and pay its weave cost. If you do, add this card’s effects to that spell. Cast it on a later turn.
+	rules: 
+	mode: custom
+version_control:
+	type: none
+apprentice_code: 
