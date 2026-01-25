@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 21:41:16
+	time_modified: 2026-01-25 21:41:32
+	border_color: rgb(0,0,0)
+	name: Spelunking
+	casting_cost: 2G
+	cmc: 3
+	image: image136.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	rarity: uncommon
+	rule_text:
+		When this enchantment enters, draw a card, then you may put a land card from your hand onto the battlefield. If you put a Cave onto the battlefield this way, you gain 4 life.
+		Lands you control enter untapped.
+	illustrator: Ernanda Souza
+	custom_card_number: 213
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

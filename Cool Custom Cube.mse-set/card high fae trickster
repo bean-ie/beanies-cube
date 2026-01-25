@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 10
+		frames: 
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft
+		font_cap: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-01-25 21:12:27
+	time_modified: 2026-01-25 21:14:37
+	border_color: rgb(0,0,0)
+	name: High Fae Trickster
+	casting_cost: 3U
+	cmc: 4
+	image: image108.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Faerie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a> <i-auto>(You may cast this spell any time you could cast an instant.)</i-auto>
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		You may cast spells as though they had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>To the High <error-spelling:en_US>Fae</error-spelling:en_US>, spells that take a human years to master come as easily as breathing.</i-flavor>
+	power: 4
+	toughness: 2
+	illustrator: Justyna Dura
+	custom_card_number: 40
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

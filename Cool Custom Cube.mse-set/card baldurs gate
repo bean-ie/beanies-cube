@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 21:01:48
+	time_modified: 2026-01-25 21:05:33
+	border_color: rgb(0,0,0)
+	name: Baldur's Gate
+	casting_cost: 
+	cmc: 0
+	image: image61.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land>Gate</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym>T</sym>: Add <sym>C</sym>.
+		<sym>2</sym>, <sym>T</sym>: Add X mana of any one color, where X is the number of other Gates you control.
+	flavor_text:
+		<i-flavor>“Of course I know what ‘<error-spelling:en_US>eponymous’</error-spelling:en_US> means! It’s a little horse.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Krizz</error-spelling:en_US>, gate guard</i-flavor>
+	illustrator: Titus Lunter
+	custom_card_number: 345
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

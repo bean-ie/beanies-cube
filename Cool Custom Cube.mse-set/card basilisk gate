@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 21:01:48
+	time_modified: 2026-01-25 21:02:07
+	border_color: rgb(0,0,0)
+	name: Basilisk Gate
+	casting_cost: 
+	cmc: 0
+	image: image102.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Gate</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<sym>T</sym>: Add <sym>C</sym>.
+		<sym>2</sym>, <sym>T</sym>: Target creature gets +X/+X until end of turn, where X is the number of Gates you control. Activate only as a sorcery.
+	flavor_text: <i-flavor>The eastern passage into the city is filled with reminders that the <error-spelling:en_US>patriars</error-spelling:en_US> are literally looking down on you.</i-flavor>
+	illustrator: Julian Kok Joon Wen
+	custom_card_number: 346
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

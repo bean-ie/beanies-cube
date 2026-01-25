@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: old
+	stylesheet_version: 2025-10-20
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 19:42:51
+	time_modified: 2026-01-25 19:51:58
+	border_color: rgb(0,0,0)
+	name: Spire of Industry
+	casting_cost: 
+	cmc: 0
+	image: image131.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<sym>T</sym>: Add <sym>C</sym>.
+		<sym>T</sym>, Pay 1 life: Add one mana of any color. Activate only if you control an artifact.
+	flavor_text: <i-flavor>A beacon of prosperity to some, a shadow of oppression to others.</i-flavor>
+	illustrator: John Avon
+	custom_card_number: 183
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 19:42:51
+	time_modified: 2026-01-25 19:51:33
+	border_color: rgb(0,0,0)
+	name: Takenuma, Abandoned Mire
+	casting_cost: 
+	cmc: 0
+	image: image130.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	rarity: rare
+	rule_text:
+		<sym>T</sym>: Add <sym>B</sym>.
+		<kw-A><i-auto><nospellcheck><key>Channel</key></nospellcheck></i-auto></kw-A> — <sym>3B</sym>, Discard this card: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then return a creature or planeswalker card from your graveyard to your hand. This ability costs <sym>1</sym> less to activate for each legendary creature you control.
+	illustrator: Sam Burley
+	custom_card_number: 278
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

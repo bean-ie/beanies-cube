@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 19:42:51
+	time_modified: 2026-01-25 19:51:12
+	border_color: rgb(0,0,0)
+	name: Secluded Glen
+	casting_cost: 
+	cmc: 0
+	image: image126.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	rarity: rare
+	rule_text:
+		As this land enters, you may reveal a Faerie card from your hand. If you don’t, this land enters tapped.
+		<sym>T</sym>: Add <sym>U</sym> or <sym>B</sym>.
+	flavor_text: <i-flavor>Protected by <error-spelling:en_US>glamers</error-spelling:en_US> and guile, Glen <error-spelling:en_US>Elendra</error-spelling:en_US> harbors the elusive <error-spelling:en_US>Oona</error-spelling:en_US>, queen of the <error-spelling:en_US>fae</error-spelling:en_US>.</i-flavor>
+	illustrator:
+		 Alayna Danner
+	custom_card_number: 271
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -12,6 +12,10 @@ set_info:
 	automatic_card_numbers: yes
 	card_number_style: 001/099
 styling:
+	magic-m15-adventure:
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-altered:
 		chop_top: 0
 		chop_bottom: 0
@@ -153,6 +157,40 @@ include_file: card simic guildgate
 include_file: card yoshimaru ever faithful
 include_file: card see it all
 include_file: card aurora
+include_file: card secluded glen
+include_file: card takenuma abandoned mire
+include_file: card plaza of heroes
+include_file: card mount doom
+include_file: card abraded bluffs
+include_file: card arid archway
+include_file: card bristling backwoods
+include_file: card conduit pylons
+include_file: card creosote heath
+include_file: card eroded canyon
+include_file: card festering gulch
+include_file: card forlorn flats
+include_file: card jagged barrens
+include_file: card lonely arroyo
+include_file: card lush oasis
+include_file: card soured springs
+include_file: card shifting woodland
+include_file: card crypt of agadeem
+include_file: card rustvale bridge
+include_file: card spire of industry
+include_file: card baldurs gate
+include_file: card basilisk gate
+include_file: card mazes end
+include_file: card cloud of faeries
+include_file: card fae of wishes
+include_file: card faerie mastermind
+include_file: card faerie vandal
+include_file: card high fae trickster
+include_file: card mocking sprite
+include_file: card obyra dreaming duelist
+include_file: card picklock prankster
+include_file: card voracious tome-skimmer
+include_file: card amulet of vigor
+include_file: card spelunking
 keyword:
 	keyword: Weave
 	match: Weave with <atom-param>name</atom-param> <atom-param>cost</atom-param>

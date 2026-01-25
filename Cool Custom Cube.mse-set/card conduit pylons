@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 19:42:51
+	time_modified: 2026-01-25 19:48:04
+	border_color: rgb(0,0,0)
+	name: Conduit Pylons
+	casting_cost: 
+	cmc: 0
+	image: image113.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Desert</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		When this land enters, <kw-0><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck></kw-0>. <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto>
+		<sym>T</sym>: Add <sym>C</sym>.
+		<sym>1</sym>, <sym>T</sym>: Add one mana of any color.
+	flavor_text: <i-flavor>The newly constructed relays harness the desert sun, bringing power to settlers across the plane.</i-flavor>
+	illustrator: Raymond Bonilla
+	custom_card_number: 254
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

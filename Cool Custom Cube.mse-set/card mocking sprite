@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 21:12:27
+	time_modified: 2026-01-25 21:14:47
+	border_color: rgb(0,0,0)
+	name: Mocking Sprite
+	casting_cost: 2U
+	cmc: 3
+	image: image109.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Faerie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		Instant and sorcery spells you cast cost <sym>1</sym> less to cast.
+	flavor_text: <i-flavor>“Look at me, everyone! I’m a High <error-spelling:en_US>Fae</error-spelling:en_US>! Watch me do important High <error-spelling:en_US>Fae</error-spelling:en_US> things!”</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Ben Hill
+	custom_card_number: 159
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

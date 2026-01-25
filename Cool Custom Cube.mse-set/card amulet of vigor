@@ -1,0 +1,22 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 21:41:16
+	time_modified: 2026-01-25 21:41:59
+	border_color: rgb(0,0,0)
+	name: Amulet of Vigor
+	casting_cost: 1
+	cmc: 1
+	image: image137.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: rare
+	rule_text: Whenever a permanent you control enters tapped, untap it.
+	flavor_text:
+		<i-flavor>“After years of study, I’ve learned an important lesson: the relics we watch may be watching us back.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Anowon</error-spelling:en_US>, the Ruin Sage</i-flavor>
+	illustrator: Warren Mahy
+	custom_card_number: 121
