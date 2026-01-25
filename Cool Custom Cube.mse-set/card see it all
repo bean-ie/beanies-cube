@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-showcase-strixhaven
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 17:43:53
+	time_modified: 2026-01-25 18:32:06
+	name: See it All
+	casting_cost: 1G
+	image: image110.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Create a tapped colorless land token named Aurora with <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>rangeling</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>. <i-auto>(It has all land types.)</i-auto>
+	flavor_text: <i-flavor>“Where doesn’t it take you?”</i-flavor>
+	illustrator: Dominik Mayer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

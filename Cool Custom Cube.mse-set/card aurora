@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: clear, M20
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-01-25 18:27:01
+	time_modified: 2026-01-25 18:36:17
+	name: Aurora
+	image: image63.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Rangeling</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <i-auto>(This land is all land types)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

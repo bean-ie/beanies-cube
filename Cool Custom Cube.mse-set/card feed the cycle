@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-01-25 15:46:50
-	time_modified: 2026-01-25 15:49:13
+	time_modified: 2026-01-25 17:46:40
 	border_color: rgb(0,0,0)
 	name: Feed the Cycle
 	casting_cost: 1B
@@ -26,7 +26,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	rarity: uncommon
 	rule_text:
-		As an additional cost to cast this spell, <kw-A><nospellcheck><key>forage</key></nospellcheck> or pay <sym>B</sym>. <i-auto>(To <kw-A><nospellcheck><key>forage</key></nospellcheck>, exile three cards from your graveyard or sacrifice a Food.)</i-auto><blob></kw-A><moved><atom-reminder-action> <i-auto>(To forage, exile three cards from your graveyard or sacrifice a Food.)</i-auto></atom-reminder-action></kw-A></moved></blob>
+		As an additional cost to cast this spell, <kw-A><nospellcheck><key>forage</key></nospellcheck> or pay <sym>B</sym>.<atom-reminder-action> <i-auto>(To forage, exile three cards from your graveyard or sacrifice a Food.)</i-auto></atom-reminder-action></kw-A>
 		Destroy target creature or planeswalker.
 	flavor_text:
 		<i-flavor>Sleeping beneath the sumac<soft-line>

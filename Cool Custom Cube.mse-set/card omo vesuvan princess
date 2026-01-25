@@ -11,9 +11,9 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-01-24 17:38:34
-	time_modified: 2026-01-24 21:16:38
+	time_modified: 2026-01-25 18:15:20
 	name: Omo, Vesuvan Princess
-	casting_cost: 1GU
+	casting_cost: GU
 	image: image14.png
 	image_2: 
 	mainframe_image: 
@@ -29,8 +29,8 @@ card:
 	rarity: mythic rare
 	rule_text: Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Omo</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters or attacks, put a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>rangeling</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> counter on up to one target land. <i-auto>(That land is every land type.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 5
+	power: 0
+	toughness: 4
 	illustrator: Rick Riordan
 	custom_card_number: 
 	card_code_text: 

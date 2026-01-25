@@ -3,7 +3,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2026-01-24 20:38:09
-	time_modified: 2026-01-25 00:35:42
+	time_modified: 2026-01-25 18:10:28
 	name: Mirrorize
 	casting_cost: U
 	image: image44.png
@@ -18,7 +18,9 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rule_text: Put a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>rangeling</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> counter on target land. <i-auto>(That land is every land type.)</i-auto>
+	rule_text:
+		Put a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>rangeling</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> counter on target land. <i-auto>(That land is every land type.)</i-auto>
+		Draw a card.
 	flavor_text: <i-flavor>A two-way ticket to <error-spelling:en_US>Vesuva</error-spelling:en_US>.</i-flavor>
 	illustrator: Alena Aenami
 	card_code_text: 

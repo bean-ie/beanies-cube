@@ -27,6 +27,12 @@ styling:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-mainframe-tokens:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-outlaws-tokens:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-saga:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -37,6 +43,10 @@ styling:
 		text_box_mana_symbols: magic-mana-eldraine-enchanting-tales.mse-symbol-font
 	magic-m15-showcase-etched-foil:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-showcase-strixhaven:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-small-strixhaven.mse-symbol-font
 		overlay: 
 	magic-old:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -141,6 +151,8 @@ include_file: card rakdos guildgate
 include_file: card selesnya guildgate
 include_file: card simic guildgate
 include_file: card yoshimaru ever faithful
+include_file: card see it all
+include_file: card aurora
 keyword:
 	keyword: Weave
 	match: Weave with <atom-param>name</atom-param> <atom-param>cost</atom-param>
