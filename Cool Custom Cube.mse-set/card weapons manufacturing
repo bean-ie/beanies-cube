@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft
+		font_cap: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-01-25 14:13:57
+	time_modified: 2026-01-25 14:18:26
+	border_color: rgb(0,0,0)
+	name: Weapons Manufacturing
+	casting_cost: 1R
+	cmc: 2
+	image: image58.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	rarity: rare
+	rule_text: Whenever a nontoken artifact you control enters, create a colorless artifact token named Munitions with “When this token leaves the battlefield, it deals 2 damage to any target.”
+	flavor_text:
+		<i-flavor>“Soon we’ll have enough firepower to rid <error-spelling:en_US>Evendo</error-spelling:en_US> of its bug infestation.”
+		—General <error-spelling:en_US>Tekvu</error-spelling:en_US>, <error-spelling:en_US>Kavaron</error-spelling:en_US> Memorial Navy</i-flavor>
+	illustrator: Marco Gorlei
+	custom_card_number: 168
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

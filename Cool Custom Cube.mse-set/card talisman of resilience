@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 15:21:32
+	time_modified: 2026-01-25 15:22:32
+	border_color: rgb(0,0,0)
+	name: Talisman of Resilience
+	casting_cost: 2
+	cmc: 2
+	image: image72.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: uncommon
+	rule_text:
+		<sym>T</sym>: Add <sym>C</sym>.
+		<sym>T</sym>: Add <sym>B</sym> or <sym>G</sym>. This artifact deals 1 damage to you.
+	flavor_text:
+		<i-flavor>“The continual rise of the downtrodden is as inevitable as vines usurping a forest.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Vraska</i-flavor></error-spelling:en_US>
+	illustrator: Lindsey Look
+	custom_card_number: 255
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

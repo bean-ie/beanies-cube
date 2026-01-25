@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 15:46:50
+	time_modified: 2026-01-25 15:49:50
+	border_color: rgb(0,0,0)
+	name: Polygraph Orb
+	casting_cost: 4B
+	cmc: 5
+	image: image81.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: uncommon
+	rule_text:
+		When this artifact enters, look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.
+		<sym>2</sym>, <sym>T</sym>, <kw-A><nospellcheck><key>Collect evidence <param-number>3</param-number></key></nospellcheck>: Each opponent loses 3 life unless they discard a card or sacrifice a creature.<atom-reminder-action> <i-auto>(To collect evidence <param-number>3</param-number>, exile cards with total mana value <param-number>3</param-number> or greater from your graveyard.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jokubas Uogintas
+	custom_card_number: 99
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

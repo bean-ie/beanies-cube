@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: old
+	stylesheet_version: 2025-10-20
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 14:08:53
+	time_modified: 2026-01-25 14:09:57
+	border_color: rgb(0,0,0)
+	name: Frantic Search
+	casting_cost: 2U
+	cmc: 3
+	image: image54.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: Draw two cards, then discard two cards. Untap up to three lands.
+	flavor_text: <i-flavor>It took the banning of temporal manipulation at <error-spelling:en_US>Tolaria</error-spelling:en_US> West to teach its students the value of time.</i-flavor>
+	illustrator: Mitchell Malloy
+	custom_card_number: 93
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

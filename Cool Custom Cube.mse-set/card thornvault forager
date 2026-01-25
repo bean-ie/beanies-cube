@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 15:46:50
+	time_modified: 2026-01-25 15:53:12
+	border_color: rgb(0,0,0)
+	name: Thornvault Forager
+	casting_cost: 1G
+	cmc: 2
+	image: image89.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Squirrel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ranger</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<sym>T</sym>: Add <sym>G</sym>.
+		<sym>T</sym>, <kw-A><nospellcheck><key>Forage</key></nospellcheck>: Add two mana in any combination of colors.<atom-reminder-action> <i-auto>(To forage, exile three cards from your graveyard or sacrifice a Food.)</i-auto></atom-reminder-action></kw-A>
+		<sym>3G</sym>, <sym>T</sym>: Search your library for a Squirrel card, reveal it, put it into your hand, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Mark Behm
+	custom_card_number: 197
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

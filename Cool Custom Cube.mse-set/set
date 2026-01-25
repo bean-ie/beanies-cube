@@ -16,11 +16,16 @@ styling:
 		chop_top: 0
 		chop_bottom: 0
 		frames: 
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft
 		font_cap: 
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-planeswalker:
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-saga:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -88,6 +93,54 @@ include_file: card urzas saga
 include_file: card urzas power plant
 include_file: card urzas tower
 include_file: card urzas mine
+include_file: card frantic search
+include_file: card narsets reversal
+include_file: card archmage emeritus
+include_file: card cloud key
+include_file: card snap
+include_file: card springleaf drum
+include_file: card storm-kiln artist
+include_file: card weapons manufacturing
+include_file: card weftstalker ardent
+include_file: card devotion talisman
+include_file: card talisman of conviction
+include_file: card talisman of creativity
+include_file: card talisman of curiosity
+include_file: card talisman of dominance
+include_file: card talisman of hierarchy
+include_file: card talisman of impulse
+include_file: card talisman of indulgence
+include_file: card talisman of progress
+include_file: card talisman of resilience
+include_file: card talisman of unity
+include_file: card analyze the pollen
+include_file: card apex of power
+include_file: card ardent recruit
+include_file: card bushy bodyguard
+include_file: card corpseberry cultivator
+include_file: card curious forager
+include_file: card eastfarthing farmer
+include_file: card electro assaulting battery
+include_file: card feed the cycle
+include_file: card guidelight synergist
+include_file: card hardlight containment
+include_file: card lita mechanical engineer
+include_file: card polygraph orb
+include_file: card porcelain legionnaire
+include_file: card seething song
+include_file: card the cabbage merchant
+include_file: card thornvault forager
+include_file: card azorius guildgate
+include_file: card boros guildgate
+include_file: card dimir guildgate
+include_file: card golgari guildgate
+include_file: card gruul guildgate
+include_file: card izzet guildgate
+include_file: card orzhov guildgate
+include_file: card rakdos guildgate
+include_file: card selesnya guildgate
+include_file: card simic guildgate
+include_file: card yoshimaru ever faithful
 keyword:
 	keyword: Weave
 	match: Weave with <atom-param>name</atom-param> <atom-param>cost</atom-param>

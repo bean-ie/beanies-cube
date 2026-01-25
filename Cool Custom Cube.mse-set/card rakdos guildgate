@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 16:01:24
+	time_modified: 2026-01-25 16:03:01
+	border_color: rgb(0,0,0)
+	name: Rakdos Guildgate
+	casting_cost: 
+	cmc: 0
+	image: image98.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Gate</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		This land enters tapped.
+		<sym>T</sym>: Add <sym>B</sym> or <sym>R</sym>.
+	flavor_text: <i-flavor>Enter and indulge your darkest fantasies, for you may never pass this way again.</i-flavor>
+	illustrator: Jonas De Ro
+	custom_card_number: 693
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 16:01:24
+	time_modified: 2026-01-25 16:02:29
+	border_color: rgb(0,0,0)
+	name: Dimir Guildgate
+	casting_cost: 
+	cmc: 0
+	image: image93.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Gate</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		This land enters tapped.
+		<sym>T</sym>: Add <sym>U</sym> or <sym>B</sym>.
+	flavor_text: <i-flavor>Enter and become a mastermind of spies, lies, and deception.</i-flavor>
+	illustrator: Cliff Childs
+	custom_card_number: 688
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

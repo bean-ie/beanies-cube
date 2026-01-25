@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 14:13:57
+	time_modified: 2026-01-25 14:18:47
+	border_color: rgb(0,0,0)
+	name: Weftstalker Ardent
+	casting_cost: 2R
+	cmc: 3
+	image: image59.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Drix</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Whenever another creature or artifact you control enters, this creature deals 1 damage to each opponent.
+		<kw-A><nospellcheck><key>Warp <param-cost><sym>R</sym></param-cost></key></nospellcheck> <i-auto>(You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</i-auto><atom-reminder-expert> <i-auto>(You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Valera Lutfullina
+	custom_card_number: 169
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

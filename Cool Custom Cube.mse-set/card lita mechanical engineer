@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft
+		font_cap: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-01-25 15:46:50
+	time_modified: 2026-01-25 15:50:48
+	border_color: rgba(0,0,0,0)
+	name: Lita, Mechanical Engineer
+	casting_cost: 2W
+	cmc: 3
+	image: image78.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Artificer</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		At the beginning of your end step, untap each other artifact creature you control.
+		<sym>3W</sym>, <sym>T</sym>: Create a 5/5 colorless Vehicle artifact token named Zeppelin with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>crew <param-number>3</param-number></key></nospellcheck></kw-0>. <i-auto>(It has “Tap any number of creatures you control with total power 3 or more: This token becomes an artifact creature until end of turn.”)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Bartek Fedyczak
+	custom_card_number: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

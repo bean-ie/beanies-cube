@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft
+		font_cap: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-01-25 15:21:32
+	time_modified: 2026-01-25 15:21:42
+	border_color: rgb(0,0,0)
+	name: Talisman of Conviction
+	casting_cost: 2
+	cmc: 2
+	image: image64.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: uncommon
+	rule_text:
+		<sym>T</sym>: Add <sym>C</sym>.
+		<sym>T</sym>: Add <sym>R</sym> or <sym>W</sym>. This artifact deals 1 damage to you.
+	flavor_text:
+		<i-flavor>“The sun banishes darkness every morning. I too will rise with such <error-spelling:en_US>assuredness</error-spelling:en_US>.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Huatli</i-flavor></error-spelling:en_US>
+	illustrator: Lindsey Look
+	custom_card_number: 329
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

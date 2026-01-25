@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 15:21:32
+	time_modified: 2026-01-25 15:22:24
+	border_color: rgb(0,0,0)
+	name: Talisman of Indulgence
+	casting_cost: 2
+	cmc: 2
+	image: image70.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: uncommon
+	rule_text:
+		<sym>T</sym>: Add <sym>C</sym>.
+		<sym>T</sym>: Add <sym>B</sym> or <sym>R</sym>. This artifact deals 1 damage to you.
+	illustrator: Mike Dringenberg
+	custom_card_number: 254
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

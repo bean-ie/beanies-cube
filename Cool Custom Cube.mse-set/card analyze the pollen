@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 15:46:50
+	time_modified: 2026-01-25 15:51:32
+	border_color: rgb(0,0,0)
+	name: Analyze the Pollen
+	casting_cost: G
+	cmc: 1
+	image: image85.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	rarity: rare
+	rule_text:
+		As an additional cost to cast this spell, you may <kw-0><nospellcheck><key>collect evidence <param-number>8</param-number></key></nospellcheck></kw-0>. <i-auto>(Exile cards with total mana value 8 or greater from your graveyard.)</i-auto>
+		Search your library for a basic land card. If evidence was collected, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Anna Christenson
+	custom_card_number: 150
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

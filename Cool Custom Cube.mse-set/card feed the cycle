@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft
+		font_cap: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-01-25 15:46:50
+	time_modified: 2026-01-25 15:49:13
+	border_color: rgb(0,0,0)
+	name: Feed the Cycle
+	casting_cost: 1B
+	cmc: 2
+	image: image80.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	rarity: uncommon
+	rule_text:
+		As an additional cost to cast this spell, <kw-A><nospellcheck><key>forage</key></nospellcheck> or pay <sym>B</sym>. <i-auto>(To <kw-A><nospellcheck><key>forage</key></nospellcheck>, exile three cards from your graveyard or sacrifice a Food.)</i-auto><blob></kw-A><moved><atom-reminder-action> <i-auto>(To forage, exile three cards from your graveyard or sacrifice a Food.)</i-auto></atom-reminder-action></kw-A></moved></blob>
+		Destroy target creature or planeswalker.
+	flavor_text:
+		<i-flavor>Sleeping beneath the sumac<soft-line>
+		</soft-line>—<error-spelling:en_US>Squirrelfolk</error-spelling:en_US> expression meaning “death”</i-flavor>
+	illustrator: Donato Giancola
+	custom_card_number: 94
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

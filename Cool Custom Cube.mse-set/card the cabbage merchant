@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft
+		font_cap: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-01-25 15:46:50
+	time_modified: 2026-01-25 15:52:13
+	border_color: rgb(0,0,0)
+	name: The Cabbage Merchant
+	casting_cost: 2G
+	cmc: 3
+	image: image87.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Whenever an opponent casts a noncreature spell, create a <kw-a><nospellcheck><key>Food toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. <i-auto>(It’s an artifact with “<sym>2</sym>, <sym>T</sym>, Sacrifice this token: You gain 3 life.”)</i-auto>
+		Whenever a creature deals combat damage to you, sacrifice a <kw-a><nospellcheck><key>Food toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+		Tap two untapped Foods you control: Add one mana of any color.
+	flavor_text: <i-flavor>“My cabbages...”</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Patrick Gañas
+	custom_card_number: 134
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

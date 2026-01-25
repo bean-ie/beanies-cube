@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 15:46:50
+	time_modified: 2026-01-25 15:47:27
+	border_color: rgb(0,0,0)
+	name: Eastfarthing Farmer
+	casting_cost: 2W
+	cmc: 3
+	image: image75.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Halfling</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Peasant</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: When this creature enters, create a <kw-a><nospellcheck><key>Food toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. When you do, target creature you control gets +1/+1 until end of turn for each Food you control. <i-auto>(A <kw-a><nospellcheck><key>Food toke<param-*s>n</param-*s></key></nospellcheck></kw-a> is an artifact with “<sym>2</sym>, <sym>T</sym>, Sacrifice this token: You gain 3 life.”)</i-auto>
+	power: 2
+	toughness: 3
+	illustrator: Iga Oliwiak
+	custom_card_number: 8
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

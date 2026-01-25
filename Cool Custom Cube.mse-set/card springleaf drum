@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: old
+	stylesheet_version: 2025-10-20
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 14:13:57
+	time_modified: 2026-01-25 14:19:36
+	border_color: rgb(0,0,0)
+	name: Springleaf Drum
+	casting_cost: 1
+	cmc: 1
+	image: image62.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: <sym>T</sym>, Tap an untapped creature you control: Add one mana of any color.
+	flavor_text: <i-flavor>To attain the preferred timbre for <error-spelling:en_US>merrow</error-spelling:en_US> shanties, the kelp leaf must be moistened with fresh water and struck with a fluid wrist.</i-flavor>
+	illustrator: Seb McKinnon
+	custom_card_number: 260
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

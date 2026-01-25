@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 14:13:57
+	time_modified: 2026-01-25 14:18:54
+	border_color: rgb(0,0,0)
+	name: Cloud Key
+	casting_cost: 3
+	cmc: 3
+	image: image60.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: rare
+	rule_text:
+		As this artifact enters, choose artifact, creature, enchantment, instant, or sorcery.
+		Spells you cast of the chosen type cost <sym>1</sym> less to cast.
+	flavor_text: <i-flavor>The advent of <error-spelling:en_US>cloudsculpting</error-spelling:en_US> ended the use of mechanical locks in <error-spelling:en_US>Illvoi</error-spelling:en_US> society.</i-flavor>
+	illustrator: Matt Stewart
+	custom_card_number: 54
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

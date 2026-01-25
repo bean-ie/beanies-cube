@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		font_cap: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-01-25 14:13:57
+	time_modified: 2026-01-25 14:15:48
+	border_color: rgb(0,0,0)
+	name: Storm-Kiln Artist
+	casting_cost: 3R
+	cmc: 4
+	image: image57.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dwarf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		This creature gets +1/+0 for each artifact you control.
+		<kw-A><i-auto><nospellcheck><key>Magecraft</key></nospellcheck></i-auto></kw-A> — Whenever you cast or copy an instant or sorcery spell, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>A captured elemental makes for a potent, albeit unstable, power source.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Manuel Castañón
+	custom_card_number: 235
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
