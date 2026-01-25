@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chapter_divider_coordinates: 210,335,
+		separated_text_size: 
+		reminder_text_size: 
+		alternate_reminder: 
+		custom_chapter_location: 
+		auto_frames: vehicle, snow, universes beyond
+		other_options: 
+		custom_chapter_coordinate: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-01-25 04:11:46
+	time_modified: 2026-01-25 04:17:51
+	name: Urza’s Saga
+	image: image49.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Land</word-list-type-en>
+	sub_type: <word-list-land>Urza’s</word-list-land><atom-sep> </atom-sep><word-list-land>Saga</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	level_1_text: This Saga gains “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.”
+	level_2_text: This Saga gains “<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Create a 0/0 colorless Construct artifact creature token with ‘This token gets +1/+1 for each artifact you control.<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”
+	level_3_text: Search your library for an artifact card with mana cost <sym-auto>0</sym-auto> or <sym-auto>1</sym-auto>, put it onto the battlefield, then shuffle.
+	illustrator: Titus Lunter
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		I — This Saga gains “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.”
+		II — This Saga gains “<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Create a 0/0 colorless Construct artifact creature token with ‘This token gets +1/+1 for each artifact you control.<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”
+		III — Search your library for an artifact card with mana cost <sym-auto>0</sym-auto> or <sym-auto>1</sym-auto>, put it onto the battlefield, then shuffle.

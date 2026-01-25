@@ -1,20 +1,40 @@
 ﻿mse_version: 2.0.2
 game: magic
-game_version: 2024-10-01
+game_version: 2025-06-14
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2025-10-05
 set_info:
-	title: Cool Custom Cube
+	title: Beanie’s Cube
+	set_code: BNC
+	set_language: EN
 	symbol: 
 	masterpiece_symbol: 
 	automatic_card_numbers: yes
+	card_number_style: 001/099
 styling:
 	magic-m15-altered:
 		chop_top: 0
 		chop_bottom: 0
+		frames: 
 		font_cap: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-saga:
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-showcase-eldraine-tales:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-eldraine-enchanting-tales.mse-symbol-font
+		text_box_mana_symbols: magic-mana-eldraine-enchanting-tales.mse-symbol-font
+	magic-m15-showcase-etched-foil:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-old:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 include_file: card azula strongest firebender
 include_file: card omo vesuvan princess
@@ -32,6 +52,42 @@ include_file: card mirrorize
 include_file: card vesuva
 include_file: card kingdom of vesuva
 include_file: card planar nexus
+include_file: card leyline of anticipation
+include_file: card bitterbloom bearer
+include_file: card galvanic blast
+include_file: card borne upon a wind
+include_file: card exsanguinate
+include_file: card perforating artist
+include_file: card sanguine syphoner
+include_file: card gray merchant of asphodel
+include_file: card hazels nocturne
+include_file: card syr conrad the grim
+include_file: card mai scornful striker
+include_file: card deathrite shaman
+include_file: card molt tender
+include_file: card cosmogoyf
+include_file: card azorius chancery
+include_file: card boros garrison
+include_file: card dimir aqueduct
+include_file: card golgari rot farm
+include_file: card gruul turf
+include_file: card izzet boilerworks
+include_file: card orzhov basilica
+include_file: card rakdos carnarium
+include_file: card selesnya sanctuary
+include_file: card simic growth chamber
+include_file: card eye of nowhere
+include_file: card eerie procession
+include_file: card lava spike
+include_file: card reach through mists
+include_file: card goryos hunger
+include_file: card trial by fire
+include_file: card cloudpost
+include_file: card urzas workshop
+include_file: card urzas saga
+include_file: card urzas power plant
+include_file: card urzas tower
+include_file: card urzas mine
 keyword:
 	keyword: Weave
 	match: Weave with <atom-param>name</atom-param> <atom-param>cost</atom-param>

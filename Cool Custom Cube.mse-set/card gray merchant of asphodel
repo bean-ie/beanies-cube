@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 00:05:52
+	time_modified: 2026-01-25 00:06:27
+	name: Gray Merchant of Asphodel
+	casting_cost: 3BB
+	image: image25.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: When this creature enters, each opponent loses X life, where X is your <kw-A><nospellcheck><key>devotion to <param-one_word>black</param-one_word></key></nospellcheck>. You gain life equal to the life lost this way.<atom-reminder-action> <i-auto>(Each <param-one_word><sym>B</sym></param-one_word> in the mana costs of permanents you control counts toward your devotion to <param-one_word>black</param-one_word>.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 4
+	illustrator: Scott Murphy
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

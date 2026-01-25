@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		font_cap: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-01-25 04:09:57
+	time_modified: 2026-01-25 04:11:33
+	name: Urza's Workshop
+	image: image48.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Urza's</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<kw-A><i-auto><nospellcheck><key>Metalcraft</key></nospellcheck></i-auto></kw-A> — <sym-auto>T</sym-auto>: Add <sym>C</sym> for each <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Urza’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> land you control. Activate only if you control three or more artifacts.
+	flavor_text: <i-flavor><error-spelling:en_US>Urza</error-spelling:en_US> eventually came to understand <error-spelling:en_US>Tocasia’s</error-spelling:en_US> lessons on clarity of purpose. Perfection became his goal, and all other matters fell away in its pursuit.</i-flavor>
+	illustrator: Alexander Forssberg
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

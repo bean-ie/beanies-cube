@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 2
+		frames: 
+		font_cap: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-01-24 23:39:16
+	time_modified: 2026-01-24 23:40:50
+	name: Galvanic Blast
+	casting_cost: R
+	image: image16.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Galvanic Blast</nospellcheck></atom-cardname> deals 2 damage to any target.
+		<kw-A><i-auto><nospellcheck><key>Metalcraft</key></nospellcheck></i-auto></kw-A> — <atom-cardname><nospellcheck>Galvanic Blast</nospellcheck></atom-cardname> deals 4 damage instead if you control three or more artifacts.
+	flavor_text: <i-flavor><error-spelling:en_US>Mirrodin</error-spelling:en_US> has little weather, but it certainly has lightning.</i-flavor>
+	illustrator: Marc Simonetti
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 25
+		chop_bottom: 25
+		frames: 
+		font_cap: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2026-01-25 00:04:21
+	time_modified: 2026-01-25 00:05:37
+	name: Sanguine Syphoner
+	casting_cost: 1B
+	image: image24.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever this creature attacks, each opponent loses 1 life and you gain 1 life.
+	flavor_text: <i-flavor>As life returned to the bogs of <error-spelling:en_US>Bala</error-spelling:en_US> <error-spelling:en_US>Ged</error-spelling:en_US>, the vampires returned to feed upon it.</i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Irina Nordsol
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

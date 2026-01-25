@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 card:
 	has_styling: false
 	notes: 
@@ -21,7 +21,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Double strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
-		Spells you cast have <kw-0><nospellcheck><key>affinity for <param-name>artifacts.</param-name></key></nospellcheck></kw-0> <i-auto>(They cost <sym-auto>1</sym-auto> less for each artifact you control.)</i-auto>
+		Spells you cast have <kw-0><nospellcheck><key>affinity for <param-name>artifacts</param-name>.</key></nospellcheck></kw-0> <i-auto>(They cost <sym-auto>1</sym-auto> less for each artifact you control.)</i-auto>
 	flavor_text: <i-flavor>“The hard way it is.”</i-flavor>
 	power: 4
 	toughness: 4

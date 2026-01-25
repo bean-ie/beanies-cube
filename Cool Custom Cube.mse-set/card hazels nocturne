@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-25 00:06:56
+	time_modified: 2026-01-25 00:07:39
+	name: Hazel's Nocturne
+	casting_cost: 3B
+	image: image26.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: uncommon
+	rule_text: Return up to two target creature cards from your graveyard to your hand. Each opponent loses 2 life and you gain 2 life.
+	flavor_text: <i-flavor>On stormy autumn days, the leaves in the trees <error-spelling:en_US>chitter</error-spelling:en_US> and whisper.</i-flavor>
+	illustrator: Dominik Mayer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
