@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-26 03:25:53
+	time_modified: 2026-01-26 03:28:31
+	border_color: rgb(0,0,0)
+	card_color: land, multicolor
+	name: Multiversal Passage
+	casting_cost: 
+	cmc: 0
+	image: image141.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	rarity: rare
+	rule_text:
+		As this land enters, choose a basic land type. Then you may pay 2 life. If you don’t, it enters tapped.
+		This land is the chosen type.
+	flavor_text: <i-flavor>New worlds await...</i-flavor>
+	illustrator: Pablo Mendoza
+	custom_card_number: 180
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

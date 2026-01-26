@@ -191,6 +191,14 @@ include_file: card picklock prankster
 include_file: card voracious tome-skimmer
 include_file: card amulet of vigor
 include_file: card spelunking
+include_file: card mirage mesa
+include_file: card multiversal passage
+include_file: card night market
+include_file: card thran portal
+include_file: card uncharted haven
+include_file: card glory courtyard
+include_file: card futures city
+include_file: card command bridge
 keyword:
 	keyword: Weave
 	match: Weave with <atom-param>name</atom-param> <atom-param>cost</atom-param>

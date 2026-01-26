@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-26 03:25:53
+	time_modified: 2026-01-26 03:27:36
+	border_color: rgb(0,0,0)
+	card_color: land, multicolor
+	name: Uncharted Haven
+	casting_cost: 
+	cmc: 0
+	image: image138.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	rarity: common
+	rule_text:
+		This land enters tapped. As it enters, choose a color.
+		<sym>T</sym>: Add one mana of the chosen color.
+	flavor_text:
+		<i-flavor>“There are lands beyond Valley. Wild, calamity-scarred, and beautiful.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Farfeather</error-spelling:en_US>, <error-spelling:en_US>birdfolk</error-spelling:en_US> scout</i-flavor>
+	illustrator: Adam Paquette
+	custom_card_number: 261
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
