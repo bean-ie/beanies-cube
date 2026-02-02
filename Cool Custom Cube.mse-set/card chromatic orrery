@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-26 10:43:54
+	time_modified: 2026-01-26 10:46:43
+	border_color: rgb(0,0,0)
+	name: Chromatic Orrery
+	casting_cost: 7
+	cmc: 7
+	image: image146.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	rarity: mythic rare
+	rule_text:
+		You may spend mana as though it were mana of any color.
+		<sym>T</sym>: Add <sym>CCCCC</sym>.
+		<sym>5</sym>, <sym>T</sym>: Draw a card for each color among permanents you control.
+	flavor_text: <i-flavor>Visitors marvel at its design, unaware of the other world that inspired it.</i-flavor>
+	illustrator: Volkan Baǵa
+	custom_card_number: 228
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

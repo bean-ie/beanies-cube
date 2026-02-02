@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-26 10:43:54
+	time_modified: 2026-01-26 10:46:08
+	border_color: rgb(0,0,0)
+	name: Reverberate
+	casting_cost: RR
+	cmc: 2
+	image: image156.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	rarity: rare
+	rule_text: Copy target instant or sorcery spell. You may choose new targets for the copy.
+	flavor_text: <i-flavor>“Not bad, but I can think of a better use for that.”</i-flavor>
+	illustrator: jD
+	custom_card_number: 145
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

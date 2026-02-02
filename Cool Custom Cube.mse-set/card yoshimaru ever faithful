@@ -14,7 +14,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2026-01-25 16:42:07
-	time_modified: 2026-01-25 16:42:17
+	time_modified: 2026-01-26 17:23:28
 	border_color: rgb(0,0,0)
 	name: Yoshimaru, Ever Faithful
 	casting_cost: W
@@ -28,7 +28,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		Whenever another legendary permanent you control enters, put a +1/+1 counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Yoshimaru</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
-		<kw-A><nospellcheck><key>Partner</key></nospellcheck> <i-auto>(You can have two commanders if both have <kw-A><nospellcheck><key>partner</key></nospellcheck>.)</i-auto><blob></kw-A><moved><atom-reminder-expert> <i-auto>(You can have two commanders if both have partner.)</i-auto></atom-reminder-expert></kw-A></moved></blob>
+		<kw-A><nospellcheck><key>Partner</key></nospellcheck><atom-reminder-expert> <i-auto>(You can have two commanders if both have partner.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>Day after day he sat there, knowing that the Wanderer would soon be back for him.</i-flavor>
 	power: 1
 	toughness: 1

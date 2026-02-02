@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-26 10:43:54
+	time_modified: 2026-01-26 10:46:23
+	border_color: rgb(0,0,0)
+	name: Manamorphose
+	casting_cost: 1R/G
+	cmc: 2
+	image: image112.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	rarity: uncommon
+	rule_text:
+		Add two mana in any combination of colors.
+		Draw a card.
+	flavor_text:
+		<i-flavor>“Master the chaotic forces of nature, and you shall master magic.”
+		—<error-spelling:en_US>Yare</error-spelling:en_US>-<error-spelling:en_US>Tiva</error-spelling:en_US>, warden of <error-spelling:en_US>Gramur</error-spelling:en_US> forest</i-flavor>
+	illustrator: Adam Paquette
+	custom_card_number: 208
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-26 10:43:54
+	time_modified: 2026-01-26 10:44:28
+	border_color: rgb(0,0,0)
+	name: Flowering of the White Tree
+	casting_cost: WW
+	cmc: 2
+	image: image148.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	rarity: rare
+	rule_text:
+		Legendary creatures you control get +2/+1 and have <kw-0><nospellcheck><key>ward <param-cost><sym>1</sym></param-cost></key></nospellcheck></kw-0>.
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nonlegendary</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures you control get +1/+1.
+	flavor_text: <i-flavor><error-spelling:en_US>Aragorn</error-spelling:en_US> planted the new tree in the court by the fountain, and swiftly and gladly it began to grow.</i-flavor>
+	illustrator: Erikas Perl
+	custom_card_number: 15
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

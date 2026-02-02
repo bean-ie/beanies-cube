@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-26 10:43:54
+	time_modified: 2026-01-26 10:44:53
+	border_color: rgb(0,0,0)
+	name: Bonus Round
+	casting_cost: 1RR
+	cmc: 3
+	image: image150.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	rarity: rare
+	rule_text: Until end of turn, whenever a player casts an instant or sorcery spell, that player copies it and may choose new targets for the copy.
+	flavor_text: <i-flavor>When the twin-spell bonus round begins, the crowd rises to its feet in anticipation of incredible combinations.</i-flavor>
+	illustrator: Lake Hurwitz
+	custom_card_number: 56
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

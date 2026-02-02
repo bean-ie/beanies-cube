@@ -21,7 +21,13 @@ card:
 	rule_text:
 		<atom-cardname><nospellcheck>Trial by Fire</nospellcheck></atom-cardname> deals 2 damage to target player. That player can’t gain life this turn.
 		<kw-A><nospellcheck><key>Weave with <param-name>Arcane</param-name> <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(As you cast an <param-name>Arcane</param-name> spell, you may exile this card from your hand and pay its weave cost. If you do, add this card’s effects to that spell. Cast it on a later turn.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
 	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
 	illustrator: Dominik Mayer
 	card_code_text: 
 	card_code_text_2: 

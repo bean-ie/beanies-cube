@@ -191,7 +191,6 @@ include_file: card picklock prankster
 include_file: card voracious tome-skimmer
 include_file: card amulet of vigor
 include_file: card spelunking
-include_file: card mirage mesa
 include_file: card multiversal passage
 include_file: card night market
 include_file: card thran portal
@@ -199,12 +198,35 @@ include_file: card uncharted haven
 include_file: card glory courtyard
 include_file: card futures city
 include_file: card command bridge
+include_file: card blitzball
+include_file: card bonus round
+include_file: card chromatic orrery
+include_file: card comet storm
+include_file: card day of destiny
+include_file: card fireball
+include_file: card flare of duplication
+include_file: card flowering of the white tree
+include_file: card guttersnipe
+include_file: card manamorphose
+include_file: card prophetic prism
+include_file: card reiterate
+include_file: card reverberate
+include_file: card twincast
 keyword:
 	keyword: Weave
 	match: Weave with <atom-param>name</atom-param> <atom-param>cost</atom-param>
 	reminder: As you cast a {param1} spell, you may exile this card from your hand and pay its weave cost. If you do, add this card’s effects to that spell. Cast it on a later turn.
 	rules: 
 	mode: custom
+pack_type:
+	name: custom pack
+	enabled: true
+	selectable: true
+	select: all
+	item:
+		name: random
+		amount: 15
+		weight: 1
 version_control:
 	type: none
 apprentice_code: 

@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-26 10:43:54
+	time_modified: 2026-01-26 10:45:47
+	border_color: rgb(0,0,0)
+	name: Guttersnipe
+	casting_cost: 2R
+	cmc: 3
+	image: image154.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Goblin</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.
+	flavor_text: <i-flavor>“Fire! Fire! Fire! What joy! What fire! Burn it all!”</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Andrey Kuzinskiy
+	custom_card_number: 217
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

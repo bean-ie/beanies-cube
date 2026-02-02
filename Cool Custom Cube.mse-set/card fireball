@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-26 10:43:54
+	time_modified: 2026-01-26 10:45:22
+	border_color: rgb(0,0,0)
+	name: Fireball
+	casting_cost: XR
+	cmc: 1
+	image: image152.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	rarity: uncommon
+	rule_text:
+		This spell costs <sym>1</sym> more to cast for each target beyond the first.
+		Fireball deals X damage divided evenly, rounded down, among any number of targets.
+	flavor_text: <i-flavor>The orchard soon reeked of sulfur, smoke, and scorched bugbear, with just a hint of peach.</i-flavor>
+	illustrator: Xavier Ribeiro
+	custom_card_number: 175
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

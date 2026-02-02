@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-26 10:43:54
+	time_modified: 2026-01-26 10:44:39
+	border_color: rgb(0,0,0)
+	name: Twincast
+	casting_cost: UU
+	cmc: 2
+	image: image149.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	rarity: rare
+	rule_text: Copy target instant or sorcery spell. You may choose new targets for the copy.
+	flavor_text: <i-flavor>Imitation is the most dangerous form of flattery.</i-flavor>
+	illustrator: Christopher Moeller
+	custom_card_number: 78
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

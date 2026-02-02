@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-26 10:43:54
+	time_modified: 2026-01-26 10:46:49
+	border_color: rgb(0,0,0)
+	name: Blitzball
+	casting_cost: 3
+	cmc: 3
+	image: image129.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: common
+	rule_text:
+		<sym>T</sym>: Add one mana of any color.
+		<i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>GOOOOAAAALLL</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>!</i> — <sym>T</sym>, Sacrifice this artifact: Draw two cards. Activate only if an opponent was dealt combat damage by a legendary creature this turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Gas1
+	custom_card_number: 254
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

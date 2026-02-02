@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2026-01-26 10:43:54
+	time_modified: 2026-01-26 10:47:04
+	border_color: rgb(0,0,0)
+	name: Prophetic Prism
+	casting_cost: 2
+	cmc: 2
+	image: image157.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	rarity: common
+	rule_text:
+		When this artifact enters, draw a card.
+		<sym>1</sym>, <sym>T</sym>: Add one mana of any color.
+	flavor_text:
+		<i-flavor>“Most dreams reveal but fragments of what you could be. Only nightmares can show you who you truly are.”
+		—<error-spelling:en_US>Ashiok</i-flavor></error-spelling:en_US>
+	illustrator: Quintin Gleim
+	custom_card_number: 249
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
